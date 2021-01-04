@@ -1,4 +1,4 @@
-package com.rntboilerplate2;
+package com.rntboilerplate;
 
 import com.facebook.react.ReactActivity;
 

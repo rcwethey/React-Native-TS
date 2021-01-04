@@ -129,7 +129,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.rnt-boilerplate"
+        applicationId "com.rntboilerplate"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
